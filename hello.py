@@ -14,7 +14,7 @@ def main():
   print(hello(name))
 
 def hello(to="world"):
-  print(f"Hello, {to}")
+  return f"Hello, {to}"
 
 
 if __name__ == "__maim__":
