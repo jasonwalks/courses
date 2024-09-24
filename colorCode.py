@@ -9,12 +9,6 @@ def main():
   else:
     ptint("Invalid.")
     
-
-
-
-
-
-
 main():
 
 
